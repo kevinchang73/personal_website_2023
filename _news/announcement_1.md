@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2022-02-22 02:55:00-0400
 inline: true
 ---
 
-A simple inline announcement.
+**[DAC 2022]** Our Paper "Timing Macro Modeling with Graph Neural Network" is accepted by the ACM/IEEE Design Automation Conference (DAC).
