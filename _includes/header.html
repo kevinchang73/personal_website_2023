@@ -35,7 +35,7 @@
               </li>
               <!-- Education -->
               <li class="nav-item {% if page.title == 'education' %}active{% endif %}">
-                <a class="nav-link" href="{{ '/' | relative_url }}">education
+                <a class="nav-link" href="{{ '/education/' | relative_url }}">education
                   {%- if page.title == "education" -%}
                   <span class="sr-only">(current)</span>
                   {%- endif -%}
@@ -43,7 +43,7 @@
               </li>
               <!-- Publications -->
               <li class="nav-item {% if page.title == 'publications' %}active{% endif %}">
-                <a class="nav-link" href="{{ '/' | relative_url }}">publications
+                <a class="nav-link" href="{{ '/publications/' | relative_url }}">publications
                   {%- if page.title == "publications" -%}
                   <span class="sr-only">(current)</span>
                   {%- endif -%}
@@ -51,7 +51,7 @@
               </li>
               <!-- Honors -->
               <li class="nav-item {% if page.title == 'honors' %}active{% endif %}">
-                <a class="nav-link" href="{{ '/' | relative_url }}">honors
+                <a class="nav-link" href="{{ '/honors/' | relative_url }}">honors
                   {%- if page.title == "honors" -%}
                   <span class="sr-only">(current)</span>
                   {%- endif -%}
@@ -59,7 +59,7 @@
               </li>
               <!-- Projects -->
               <li class="nav-item {% if page.title == 'projects' %}active{% endif %}">
-                <a class="nav-link" href="{{ '/' | relative_url }}">projects
+                <a class="nav-link" href="{{ '/projects/' | relative_url }}">projects
                   {%- if page.title == "projects" -%}
                   <span class="sr-only">(current)</span>
                   {%- endif -%}
@@ -67,8 +67,16 @@
               </li>
               <!-- Others -->
               <li class="nav-item {% if page.title == 'others' %}active{% endif %}">
-                <a class="nav-link" href="{{ '/' | relative_url }}">others
+                <a class="nav-link" href="{{ '/others/' | relative_url }}">others
                   {%- if page.title == "others" -%}
+                  <span class="sr-only">(current)</span>
+                  {%- endif -%}
+                </a>
+              </li>
+              <!-- CV -->
+              <li class="nav-item {% if page.title == 'CV' %}active{% endif %}">
+                <a class="nav-link" href="{{ '/assets/pdf/resume_202204.pdf' | relative_url }}">CV
+                  {%- if page.title == "CV" -%}
                   <span class="sr-only">(current)</span>
                   {%- endif -%}
                 </a>
