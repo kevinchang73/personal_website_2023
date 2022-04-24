@@ -1,16 +1,17 @@
 ---
 layout: page
-permalink: /others/
-title: others
+permalink: /experiences/
+title: Experiences
 description: 
 nav: true
 ---
 
 #### Reviewer
-##### Journals
+
+###### Journals
 * [IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=43)
 
-##### Conferences
+###### Conferences
 * [Asia and South Pacific Design Automation Conference (ASP-DAC)](https://www.aspdac.com/)
 * [International Symposium on Physical Design (ISPD)](https://ispd.cc/)
 
