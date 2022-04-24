@@ -33,8 +33,50 @@
                   {%- endif -%}
                 </a>
               </li>
+              <!-- Education -->
+              <li class="nav-item {% if page.title == 'education' %}active{% endif %}">
+                <a class="nav-link" href="{{ '/' | relative_url }}">education
+                  {%- if page.title == "education" -%}
+                  <span class="sr-only">(current)</span>
+                  {%- endif -%}
+                </a>
+              </li>
+              <!-- Publications -->
+              <li class="nav-item {% if page.title == 'publications' %}active{% endif %}">
+                <a class="nav-link" href="{{ '/' | relative_url }}">publications
+                  {%- if page.title == "publications" -%}
+                  <span class="sr-only">(current)</span>
+                  {%- endif -%}
+                </a>
+              </li>
+              <!-- Honors -->
+              <li class="nav-item {% if page.title == 'honors' %}active{% endif %}">
+                <a class="nav-link" href="{{ '/' | relative_url }}">honors
+                  {%- if page.title == "honors" -%}
+                  <span class="sr-only">(current)</span>
+                  {%- endif -%}
+                </a>
+              </li>
+              <!-- Projects -->
+              <li class="nav-item {% if page.title == 'projects' %}active{% endif %}">
+                <a class="nav-link" href="{{ '/' | relative_url }}">projects
+                  {%- if page.title == "projects" -%}
+                  <span class="sr-only">(current)</span>
+                  {%- endif -%}
+                </a>
+              </li>
+              <!-- Others -->
+              <li class="nav-item {% if page.title == 'others' %}active{% endif %}">
+                <a class="nav-link" href="{{ '/' | relative_url }}">others
+                  {%- if page.title == "others" -%}
+                  <span class="sr-only">(current)</span>
+                  {%- endif -%}
+                </a>
+              </li>
+            
+            <!--
               {% if site.blog_name %}
-              <!-- Blog -->
+              
               <li class="nav-item {% if page.url contains 'blog' %}active{% endif %}">
                 <a class="nav-link" href="{{ '/blog/' | relative_url }}">blog
                   {%- if page.title == "blog" -%}
@@ -44,7 +86,7 @@
               </li>
               {%- endif %}
 
-              <!-- Other pages -->
+              
               {%- assign sorted_pages = site.pages | sort: "title" -%}
               {%- for p in sorted_pages -%}
               {%- if p.nav and p.autogen == nil -%}
@@ -76,6 +118,8 @@
               {%- endif -%}
               {%- endif -%}
               {% endfor -%}
+            -->
+
               {%- if site.enable_darkmode %}
 
               <!-- Toogle theme mode -->
