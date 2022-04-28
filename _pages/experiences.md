@@ -32,6 +32,7 @@ nav: true
 * General Coordinator @ [MakeNTU](https://make.ntuee.org/) 2021 / Oct. 2020 – May 2021
     * Led 100+ staffs and managed over 1 million NTD budget to hold MakeNTU, one of the largest Makeathon contests in Taiwan.
     * Designed multiple plans to meet sponsors’ requirements, remain within budget, and even adapt to COVID-19 precaution policies.
-
-* NTUEE Student Association Academic Department
-* General Coordinator @ NTUCF Service Camp
+* Organizer of Academic Salon @ [NTUEE Student Association](https://www.facebook.com/ntuee.org/) Academic Department / Sept. 2020 – June 2021
+    * Invite several alumni and senior students to deliver speeches about their experiences regarding work, research, and school application.
+* General Coordinator @ [NTU Changhua Family](https://www.facebook.com/NTUCHfamily/) Service Camp 2020 / Aug. 2019 – Jan. 2020
+    * Led 60+ staffs to hold a winter camp for 80 elementary school students in our hometown.
