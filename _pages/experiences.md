@@ -6,14 +6,13 @@ description:
 nav: true
 ---
 
-#### Reviewer
-
-###### Journals
-* [IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=43)
-
-###### Conferences
-* [Asia and South Pacific Design Automation Conference (ASP-DAC)](https://www.aspdac.com/)
-* [International Symposium on Physical Design (ISPD)](https://ispd.cc/)
+#### Service
+* **Reviewer**
+    * Journals
+        * [IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=43) (2021, 2022)
+    * Conferences
+        * [Asia and South Pacific Design Automation Conference (ASP-DAC)](https://www.aspdac.com/) (2021)
+        * [International Symposium on Physical Design (ISPD)](https://ispd.cc/) (2021)
 
 #### Teaching Assistant
 * [Algorithms (Spring 2021)](https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=901%2039000&class=&dpt_code=9010&ser_no=29324&semester=109-2&lang=CH) @ NTU
@@ -33,6 +32,6 @@ nav: true
     * Led 100+ staffs and managed over 1 million NTD budget to hold MakeNTU, one of the largest Makeathon contests in Taiwan.
     * Designed multiple plans to meet sponsors’ requirements, remain within budget, and even adapt to COVID-19 precaution policies.
 * Organizer of Academic Salon @ [NTUEE Student Association](https://www.facebook.com/ntuee.org/) Academic Department / Sept. 2020 – June 2021
-    * Invite several alumni and senior students to deliver speeches about their experiences regarding work, research, and school application.
+    * Invited several alumni and senior students to deliver speeches about their experiences regarding work, research, and school application.
 * General Coordinator @ [NTU Changhua Family](https://www.facebook.com/NTUCHfamily/) Service Camp 2020 / Aug. 2019 – Jan. 2020
     * Led 60+ staffs to hold a winter camp for 80 elementary school students in our hometown.
