@@ -7,7 +7,7 @@ nav: true
 ---
 
 #### Service
-* **Reviewer**
+* Reviewer
     * Journals
         * [IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=43) (2021, 2022)
     * Conferences
