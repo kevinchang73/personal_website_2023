@@ -25,7 +25,7 @@ nav: true
     * [Digital System Design (Spring 2020)](https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=901%2043500&class=&dpt_code=9010&ser_no=63277&semester=108-2&lang=CH), **A+**
 
 * **Algorithms/Mathematics Courses**
-    * [Convex Optimization](https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=922%20U4490&class=&dpt_code=9220&ser_no=76804&semester=110-1&lang=CH), **A+**, graduate-level
+    * [Convex Optimization (Spring 2022)](https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=922%20U4490&class=&dpt_code=9220&ser_no=76804&semester=110-1&lang=CH), **A+**, graduate-level
     * [Data Structure (Fall 2020)](http://ccf.ee.ntu.edu.tw/~yen/courses/ds20F.html), **A+**
     * [Algorithms (Fall 2019)](https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=901%2039000&class=01&dpt_code=9010&ser_no=19610&semester=108-1&lang=CH), **A+, ranked No. 1 in the class**
     * [Data Structure and Programming (Fall 2019)](https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=901%2031900&class=&dpt_code=9010&ser_no=46927&semester=108-1&lang=CH), **A+**
