@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 description: Coming Soon!
 nav: true
-display_categories: [work, fun]
+display_categories: [EDA, CPS, others]
 horizontal: false
 ---
 
