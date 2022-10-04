@@ -10,7 +10,7 @@ nav: true
 * Overall GPA: **4.26**/4.30
 * Last-60-credits GPA: **4.28**/4.30
 * Major GPA: **4.25**/4.30
-* Ranking: **8**/249 (3%)
+* Ranking: **4**/196 (2%)
 
 #### Selected Courses
 * **CPS/EDA Related Courses**
