@@ -12,7 +12,7 @@ To read the full paper, please visit <a href="https://kevinchang73.github.io/ass
 This is the final project report of Physical Design for Nanometer ICs (Spring 2021). Macro legalization is an important step in today’s placement flow. In this work, a constraint-graph based macro legalization algorithm flow which combines iterative refinement and simulated annealing is applied to solve the macro legalization problem. Experimental result shows the flow could achieve a balance between cost and runtime.
 
 <div class="row justify-content-md-center">
-    <div class="col-sm-6 mt-3 mt-md-0">
+    <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.html path="assets/img/projects/macro_flow.jpg" title="macro_flow" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>

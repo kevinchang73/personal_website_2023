@@ -12,7 +12,7 @@ To read the full paper, please visit <a href="https://kevinchang73.github.io/ass
 In this final project, we implement an High Dynamic Range (HDR) Imaging algorithm on DE2-115 board. In addition to HDR, our work also performs well for low light image enhancement. Moreover, the whole computation time for one HDR imaging process of our work is less than 1 second, which is tens times faster than running the similar algorithm on the software.
 
 <div class="row justify-content-md-center">
-    <div class="col-sm-6 mt-3 mt-md-0">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.html path="assets/img/projects/hdr_hardware flow.jpg" title="hdr_hardware flow" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -21,11 +21,11 @@ In this final project, we implement an High Dynamic Range (HDR) Imaging algorith
 </div>
 
 <div class="row">
-    <div class="col-sm-3 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/projects/tln_conversion.jpg" title="tln_conversion" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/projects/hdr_soclib_i.jpg" title="hdr_soclib_i" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-9 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/projects/tln_function_based_flow.jpg" title="tln_function_based_flow" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/projects/hdr_soclib_o.jpg" title="hdr_soclib_o" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
