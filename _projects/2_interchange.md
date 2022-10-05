@@ -16,7 +16,7 @@ The areas near interchanges are often the most congested parts of a highway. In 
         {% include figure.html path="assets/img/projects/inter_lane_changing.jpg" title="inter_lane_changing" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-7 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/projects/inter_discrete_point.jpg" title="inter_discrete_point" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/projects/inter_discrete_points.jpg" title="inter_discrete_point" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -24,7 +24,7 @@ The areas near interchanges are often the most congested parts of a highway. In 
 </div>
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.html path="assets/img/projects/inter_flow.jpg" title="inter_flow" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -33,23 +33,23 @@ The areas near interchanges are often the most congested parts of a highway. In 
 </div>
 
 <div class="row">
-    <div class="col-sm-8 mt-3 mt-md-0">
+    <div class="col-sm-10 mt-3 mt-md-0">
         {% include figure.html path="assets/img/projects/inter_add_path_edge.jpg" title="inter_add_path_edge" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/projects/inter_cs_edge.jpg" title="inter_cs_edge.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="w-100">
     </div>
     <div class="col-sm-5 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/projects/inter_priority_order.jpg" title="inter_priority_order" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-7 mt-3 mt-md-0">
         {% include figure.html path="assets/img/projects/inter_ss_edge.jpg" title="inter_ss_edge.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/projects/inter_cs_edge.jpg" title="inter_cs_edge.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/projects/inter_priority_order.jpg" title="inter_priority_order" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    The construction of constraint graphs. Left-top: nodes (discrete points) and path edges (vehicle traveling time). Right-top: constraint edges for cross-lane seperating time. Left-bottom: the priority order of vehicles. Right-bottom: constraint edges for same-lane seperating time.
+    The construction of constraint graphs. Top: nodes (discrete points) and path edges (vehicle traveling time). Left-bottom: constraint edges for same-lane seperating time. Middle-bottom: constraint edges for cross-lane seperating time. Right-bottom: the priority order of vehicles.
 </div>
 
 <div class="row">
