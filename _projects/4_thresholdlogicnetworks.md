@@ -32,7 +32,7 @@ Threshold logic network is more viable nowadays due to its compactness and stron
     The function-based approach. Left: the conversion between a threshold logic gate and a neuron with activation. Right: the algorithm flow.
 </div>
 
-<div class="row">
+<div class="row justify-content-md-center">
     <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.html path="assets/img/projects/tln_network_based_flow.jpg" title="tln_network_based_flow" class="img-fluid rounded z-depth-1" %}
     </div>

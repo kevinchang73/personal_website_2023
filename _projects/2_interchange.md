@@ -44,7 +44,7 @@ The areas near interchanges are often the most congested parts of a highway. In 
     <div class="col-sm-2 mt-3 mt-md-0">
         {% include figure.html path="assets/img/projects/inter_cs_edge.jpg" title="inter_cs_edge.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-5 mt-3 mt-md-0">
+    <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.html path="assets/img/projects/inter_priority_order.jpg" title="inter_priority_order" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -52,7 +52,7 @@ The areas near interchanges are often the most congested parts of a highway. In 
     The construction of constraint graphs. Top: nodes (discrete points) and path edges (vehicle traveling time). Left-bottom: constraint edges for same-lane seperating time. Middle-bottom: constraint edges for cross-lane seperating time. Right-bottom: the priority order of vehicles.
 </div>
 
-<div class="row">
+<div class="row justify-content-md-center">
     <div class="col-sm-10 mt-3 mt-md-0">
         {% include figure.html path="assets/img/projects/inter_change_point.jpg" title="inter_change_point" class="img-fluid rounded z-depth-1" %}
     </div>
