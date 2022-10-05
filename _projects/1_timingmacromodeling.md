@@ -2,7 +2,7 @@
 layout: page
 title: Timing Macro Modeling with GNN
 description: A graph-neural-network-based approach for timing macro modeling. The preliminary result is published in DAC 2022.
-img: assets/img/tmm_gnn.jpg
+img: assets/img/projects/tmm_gnn.jpg
 importance: 10
 category: EDA
 ---
@@ -13,7 +13,7 @@ Due to rapidly growing design complexity, timing macro modeling has been widely 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/tmm_problem.jpg" title="tmm_problem" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/projects/tmm_problem.jpg" title="tmm_problem" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -22,7 +22,7 @@ Due to rapidly growing design complexity, timing macro modeling has been widely 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/tmm_gnn.jpg" title="tmm_gnn" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/projects/tmm_gnn.jpg" title="tmm_gnn" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -31,10 +31,10 @@ Due to rapidly growing design complexity, timing macro modeling has been widely 
 
 <div class="row">
     <div class="col-sm-5 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/tmm_flow.jpg" title="tmm_flow" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/projects/tmm_flow.jpg" title="tmm_flow" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-7 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/tmm_ts_generation.jpg" title="tmm_ts_generation" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/projects/tmm_ts_generation.jpg" title="tmm_ts_generation" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
