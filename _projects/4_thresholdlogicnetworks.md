@@ -11,11 +11,6 @@ To read the full paper, please visit <a href="https://kevinchang73.github.io/ass
 
 Threshold logic network is more viable nowadays due to its compactness and strong bind to neural network applications. However, the problem of weights and thresholds determination still remains open. In this work, we introduce machine learning and propose two approaches, the function-based approach and the network-based approach, to solve the problem. Experimental results show that our method achieves near 80% accuracy in the function-based approach and 70% to 90% accuracy in the network-based approach.
 
-The main contribution of this work is summarized as follows:
-* We formulate the TLN weights and thresholds learning problem, and we introduce machine-learning-based approaches to solve the problem.
-* We analyze the relation between TLNs and neural networks and propose a conversion method. The weights and thresholds of a TLN could be extracted from the corresponding neural network directly.
-* We propose a DNN-based training framework and generatea DNN model to predict the thresholds and weights for unseen testing functions.
-
 <div class="row justify-content-md-center">
     <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.html path="assets/img/projects/tln_problem_example.jpg" title="tln_problem_example" class="img-fluid rounded z-depth-1" %}
@@ -34,7 +29,7 @@ The main contribution of this work is summarized as follows:
     </div>
 </div>
 <div class="caption">
-    The function-based approach. Left: the conversion between a threshold logic gate and a neuron with activation.
+    The function-based approach. Left: the conversion between a threshold logic gate and a neuron with activation. Right: the algorithm flow.
 </div>
 
 <div class="row">
