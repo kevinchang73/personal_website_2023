@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Timing Macro Modeling with GNN
+title: Timing Macro Modeling
 description: A graph-neural-network-based approach for timing macro modeling. The preliminary result is published in DAC 2022.
 img: assets/img/projects/tmm_gnn.jpg
-importance: 10
+importance: 1
 category: EDA
 ---
 

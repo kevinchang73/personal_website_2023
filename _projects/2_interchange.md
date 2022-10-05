@@ -38,13 +38,13 @@ The areas near interchanges are often the most congested parts of a highway. In 
     </div>
     <div class="w-100">
     </div>
-    <div class="col-sm-5 mt-3 mt-md-0">
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/projects/inter_ss_edge.jpg" title="inter_ss_edge.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-3 mt-3 mt-md-0">
         {% include figure.html path="assets/img/projects/inter_cs_edge.jpg" title="inter_cs_edge.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/projects/inter_priority_order.jpg" title="inter_priority_order" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
