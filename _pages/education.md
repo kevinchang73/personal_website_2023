@@ -29,6 +29,8 @@ nav: true
     * [Data Structure (Fall 2020)](http://ccf.ee.ntu.edu.tw/~yen/courses/ds20F.html), **A+**
     * [Algorithms (Fall 2019)](https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=901%2039000&class=01&dpt_code=9010&ser_no=19610&semester=108-1&lang=CH), **A+, ranked No. 1 in the class**
     * [Data Structure and Programming (Fall 2019)](https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=901%2031900&class=&dpt_code=9010&ser_no=46927&semester=108-1&lang=CH), **A+**
+    * [Signals and Systems (Spring 2019)](https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=901%2031400&class=01&dpt_code=9010&ser_no=89106&semester=107-2&lang=EN), **A+**
     * [Probability and Statistics (Spring 2019)](https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=901%2021000&class=01&dpt_code=9010&ser_no=52185&semester=107-2&lang=CH), **A**
     * [Discrete Mathematics (Fall 2018)](https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=901%2021100&class=03&dpt_code=9010&ser_no=10129&semester=106-2&lang=EN), **A+**
     * [Linear Algebra (Fall 2018)](https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=901%2010030&class=02&dpt_code=9010&ser_no=41440&semester=107-1&lang=EN), **A+**
+    * [Differential Equation (Fall 2018)](https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=901%2020130&class=01&dpt_code=9010&ser_no=32159&semester=107-1&lang=EN), **A+**

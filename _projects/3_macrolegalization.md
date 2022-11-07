@@ -7,9 +7,9 @@ importance: 5
 category: EDA
 ---
 
-To read the full paper, please visit <a href="https://kevinchang73.github.io/assets/pdf/macro.pdf">here</a>. For the source code, please visit the <a href="https://github.com/kevinchang73/2021Spring_PD_Final_Project">Github repo</a>.
+To read the full project report, please visit <a href="https://kevinchang73.github.io/assets/pdf/macro.pdf">here</a>. For the source code, please visit the <a href="https://github.com/kevinchang73/2021Spring_PD_Final_Project">Github repo</a>.
 
-This is the final project report of Physical Design for Nanometer ICs (Spring 2021). Macro legalization is an important step in today’s placement flow. In this work, a constraint-graph based macro legalization algorithm flow which combines iterative refinement and simulated annealing is applied to solve the macro legalization problem. Experimental result shows the flow could achieve a balance between cost and runtime.
+Macro legalization is an important step in today’s placement flow. In this work, a constraint-graph based macro legalization algorithm flow which combines iterative refinement and simulated annealing is applied to solve the macro legalization problem. Experimental result shows the flow could achieve a balance between cost and runtime.
 
 <div class="row justify-content-md-center">
     <div class="col-sm-4 mt-3 mt-md-0">

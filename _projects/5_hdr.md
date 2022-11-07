@@ -7,7 +7,7 @@ importance: 5
 category: others
 ---
 
-To read the full paper, please visit <a href="https://kevinchang73.github.io/assets/pdf/hdr.pdf">here</a>. For the source code, please visit the <a href="https://github.com/ChienKaiMa/2020Fall-NTUEE-DCLAB/tree/master/final">Github repo</a>.
+To read the full project report, please visit <a href="https://kevinchang73.github.io/assets/pdf/hdr.pdf">here</a>. For the source code, please visit the <a href="https://github.com/ChienKaiMa/2020Fall-NTUEE-DCLAB/tree/master/final">Github repo</a>.
 
 In this final project, we implement an High Dynamic Range (HDR) Imaging algorithm on DE2-115 board. In addition to HDR, our work also performs well for low light image enhancement. Moreover, the whole computation time for one HDR imaging process of our work is less than 1 second, which is tens times faster than running the similar algorithm on the software.
 

@@ -11,8 +11,8 @@ nav: true
     * Journals
         * [IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=43) (2021, 2022)
     * Conferences
-        * [Asia and South Pacific Design Automation Conference (ASP-DAC)](https://www.aspdac.com/) (2021)
-        * [International Symposium on Physical Design (ISPD)](https://ispd.cc/) (2021)
+        * [Asia and South Pacific Design Automation Conference (ASP-DAC)](https://www.aspdac.com/) (2022)
+        * [International Symposium on Physical Design (ISPD)](https://ispd.cc/) (2022, 2023)
 
 #### Teaching Assistant
 * [Algorithms (Spring 2021)](https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=901%2039000&class=&dpt_code=9010&ser_no=29324&semester=109-2&lang=CH) @ NTU
@@ -34,4 +34,4 @@ nav: true
 * Organizer of Academic Salon @ [NTUEE Student Association](https://www.facebook.com/ntuee.org/) Academic Department / Sept. 2020 – June 2021
     * Invited several alumni and senior students to deliver speeches about their experiences regarding work, research, and school application.
 * General Coordinator @ [NTU Changhua Family](https://www.facebook.com/NTUCHfamily/) Service Camp 2020 / Aug. 2019 – Jan. 2020
-    * Led 60+ staffs to hold a winter camp for 80 elementary school students in our hometown.
+    * Led 60+ volunteers to hold a winter camp for 80 students from a rural elementary school in our hometown.

@@ -7,7 +7,7 @@ importance: 5
 category: EDA
 ---
 
-To read the full paper, please visit <a href="https://kevinchang73.github.io/assets/pdf/tln.pdf">here</a>. For the source code, please visit the <a href="https://github.com/kevinchang73/2021Fall_LSV_Final_Project">Github repo</a>.
+To read the full project report, please visit <a href="https://kevinchang73.github.io/assets/pdf/tln.pdf">here</a>. For the source code, please visit the <a href="https://github.com/kevinchang73/2021Fall_LSV_Final_Project">Github repo</a>.
 
 Threshold logic network is more viable nowadays due to its compactness and strong bind to neural network applications. However, the problem of weights and thresholds determination still remains open. In this work, we introduce machine learning and propose two approaches, the function-based approach and the network-based approach, to solve the problem. Experimental results show that our method achieves near 80% accuracy in the function-based approach and 70% to 90% accuracy in the network-based approach.
 
