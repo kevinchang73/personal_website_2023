@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /assets/pdf/CV_2022_10.pdf
+permalink: /assets/pdf/Kai-Chun_Chang_CV.pdf
 title: CV
 description:
 nav: true
