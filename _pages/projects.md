@@ -3,7 +3,7 @@ layout: page
 title: Projects
 permalink: /projects/
 nav: true
-display_categories: [EDA, CPS, others]
+display_categories: [CPS, EDA, others]
 horizontal: false
 ---
 
