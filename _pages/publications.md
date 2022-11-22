@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: Kevin Kai-Chun Chang's publications.
+description: My publications.
 years: [2023, 2022]
 nav: true
 ---

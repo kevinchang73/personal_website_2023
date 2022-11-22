@@ -3,6 +3,7 @@ layout: page
 title: Projects
 permalink: /projects/
 nav: true
+description: My projects across CPS and EDA.
 display_categories: [CPS, EDA, others]
 horizontal: false
 ---
