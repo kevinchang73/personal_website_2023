@@ -27,7 +27,7 @@ nav: true
     * Worked as a technical-engineering intern in the digital design group.
     * Provided a thorough analysis on 3D IC routing strategies to effectively guide the development of related tools.
 
-#### Leadership
+#### Leadership and Volunteer Activities
 * General Coordinator @ [MakeNTU](https://make.ntuee.org/) 2021 / Oct. 2020 – May 2021
     * Led 100+ staffs and managed over 1 million NTD budget to hold MakeNTU, one of the largest Makeathon contests in Taiwan.
     * Designed multiple plans to meet sponsors’ requirements, remain within budget, and even adapt to COVID-19 precaution policies.
