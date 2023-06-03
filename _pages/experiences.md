@@ -25,7 +25,7 @@ nav: true
 #### Internship
 * [Synopsys, Inc.](https://www.synopsys.com/) / July 2021 -- Aug. 2021
     * Worked as a technical-engineering intern in the digital design group.
-    * Provided a thorough analysis on 3D IC routing strategies to effectively guide the development of related tools.
+    * Provided a thorough analysis on <!--3D IC--> routing strategies to effectively guide the development of related tools.
 
 #### Leadership and Volunteer Activities
 * General Coordinator @ [MakeNTU](https://make.ntuee.org/) 2021 / Oct. 2020 – May 2021

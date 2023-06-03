@@ -17,7 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am currently a research assistant at [National Taiwan University (NTU)](https://www.ntu.edu.tw/english/index.html), where I received my B.S. in [Electrical Engineering](https://web.ee.ntu.edu.tw/eng/index.php) in June, 2022. I am also an incoming PhD student at UC Berkeley EECS.
+I am currently a research assistant at [National Taiwan University (NTU)](https://www.ntu.edu.tw/english/index.html), where I received my B.S. in [Electrical Engineering](https://web.ee.ntu.edu.tw/eng/index.php) in June, 2022. I am also an incoming PhD student at [UC Berkeley EECS](https://eecs.berkeley.edu/).
 
 Currently, I work with [Prof. Iris Hui-Ru Jiang](https://www.ee.ntu.edu.tw/profile1.php?teacher_id=24040) on graph neural network (GNN)-based timing macro modeling, and work with [Prof. Chung-Wei Lin](https://www.csie.ntu.edu.tw/~cwlin/), [Prof. Qi Zhu](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/zhu-qi.html) from Northwestern University, and [Prof. Chao Huang](https://chaohuang2018.github.io/main/) from University of Liverpool on the design of a safety-guaranteed framework for neural network-based planners of connected and autonomous vehicles.
 
