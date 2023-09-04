@@ -9,10 +9,9 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Kai-Chun (Kevin) Chang | blog</title>
+    <title>Kai-Chun (Kevin) Chang | Projects</title>
     <meta name="author" content="Kai-Chun (Kevin) Chang" />
-    <meta name="description" content="A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
-" />
+    <meta name="description" content="My projects across CPS and EDA." />
     <meta name="keywords" content="kai-chun chang, kevin kai-chun chang, kevin chang, jekyll, jekyll-theme, academic-website, portfolio-website" />
 
 
@@ -33,7 +32,7 @@
     <link rel="shortcut icon" href="/assets/img/ntu.png"/>
     
     <link rel="stylesheet" href="/assets/css/main.css">
-    <link rel="canonical" href="https://kevinchang73.github.io/blog/">
+    <link rel="canonical" href="https://kevinchang73.github.io/projects/">
     
     <!-- Dark Mode -->
     
@@ -87,8 +86,8 @@
                 <a class="nav-link" href="/experiences/">Experiences</a>
               </li>
               <!-- Projects -->
-              <li class="nav-item ">
-                <a class="nav-link" href="/projects/">Projects</a>
+              <li class="nav-item active">
+                <a class="nav-link" href="/projects/">Projects<span class="sr-only">(current)</span></a>
               </li>
               <!-- CV -->
               <li class="nav-item ">
@@ -98,8 +97,8 @@
             <!--
               
               
-              <li class="nav-item active">
-                <a class="nav-link" href="/blog/">blog<span class="sr-only">(current)</span></a>
+              <li class="nav-item ">
+                <a class="nav-link" href="/blog/">blog</a>
               </li>
               <li class="nav-item ">
                 <a class="nav-link" href="/assets/pdf/Chang_Kai-Chun_CV_2022_11.pdf">CV</a>
@@ -113,8 +112,8 @@
               <li class="nav-item ">
                 <a class="nav-link" href="/honors/">Honors</a>
               </li>
-              <li class="nav-item ">
-                <a class="nav-link" href="/projects/">Projects</a>
+              <li class="nav-item active">
+                <a class="nav-link" href="/projects/">Projects<span class="sr-only">(current)</span></a>
               </li>
               <li class="nav-item ">
                 <a class="nav-link" href="/publications/">Publications</a>
@@ -129,8 +128,8 @@
               </li>-->
 
               <!-- Toogle theme mode -->
-              <div class = "toggle-container">
-                <a id = "light-toggle">
+              <div class="toggle-container">
+                <a id="light-toggle">
                   <i class="fas fa-moon"></i>
                   <i class="fas fa-sun"></i>
                 </a>
@@ -143,121 +142,204 @@
 
     <!-- Content -->
     <div class="container mt-5">
-      <div class="post">
+      <!-- page.html -->
+        <div class="post">
 
-  <div class="header-bar">
-    <h1>al-folio</h1>
-    <h2>a simple whitespace theme for academics</h2>
-  </div>
+          <header class="post-header">
+            <h1 class="post-title">Projects</h1>
+            <p class="post-description">My projects across CPS and EDA.</p>
+          </header>
 
+          <article>
+            <!-- pages/projects.md -->
+<div class="projects">
+  <!-- Display categorized projects -->
+  <h2 class="category">CPS</h2>
+  <!-- Generate cards for each project -->
+  <div class="grid">
+<!-- _includes/projects.html -->
+<div class="grid-sizer"></div>
+<div class="grid-item">
+  <a href="/projects/6_safetynn/">
+      <div class="card hoverable">
+<figure>
 
-  <ul class="post-list">
-    
+  <picture>
+    <source media="(max-width: 480px)" srcset="/assets/img/projects/safetynn_planner_behavior-480.webp"></source>
+    <source media="(max-width: 800px)" srcset="/assets/img/projects/safetynn_planner_behavior-800.webp"></source>
+    <source media="(max-width: 1400px)" srcset="/assets/img/projects/safetynn_planner_behavior-1400.webp"></source>
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/projects/safetynn_planner_behavior.jpg" alt="project thumbnail">
 
-    
-    
-    
-    
+  </picture>
 
-    <li>
-      <h3>
-        
-        <a class="post-title" href="/assets/pdf/example_pdf.pdf">a post with redirect</a>
-        
-      </h3>
-      <p>you can also redirect to assets like pdf</p>
-      <p class="post-meta"> 1 min read &nbsp; &middot; &nbsp;
-        July 4, 2021
-      </p>
-      <p class="post-tags">
-        <a href="/blog/2021">
-          <i class="fas fa-calendar fa-sm"></i> 2021 </a>
+</figure>
 
-          
-
-          
-    </p>
-    </li>
-
-    
-
-    
-    
-    
-    
-
-    <li>
-      <h3>
-        
-          <a class="post-title" href="/blog/2021/diagrams/">a post with diagrams</a>
-        
-      </h3>
-      <p>an example of a blog post with diagrams</p>
-      <p class="post-meta"> 3 min read &nbsp; &middot; &nbsp;
-        July 4, 2021
-      </p>
-      <p class="post-tags">
-        <a href="/blog/2021">
-          <i class="fas fa-calendar fa-sm"></i> 2021 </a>
-
-          
-
-          
-    </p>
-    </li>
-
-    
-
-    
-    
-    
-    
-
-    <li>
-      <h3>
-        
-          <a class="post-title" href="/blog/2021/distill/">a distill-style blog post</a>
-        
-      </h3>
-      <p>an example of a distill-style blog post and main elements</p>
-      <p class="post-meta"> 7 min read &nbsp; &middot; &nbsp;
-        May 22, 2021
-      </p>
-      <p class="post-tags">
-        <a href="/blog/2021">
-          <i class="fas fa-calendar fa-sm"></i> 2021 </a>
-
-          
-
-          
-    </p>
-    </li>
-
-    
-  </ul>
-
-  <nav aria-label="Blog page naviation">
-  <ul class="pagination pagination-lg justify-content-center">
-    <li class="page-item disabled">
-      <a class="page-link" href="" tabindex="-1" aria-disabled="">Newer</a>
-    </li><li class="page-item active"><a class="page-link" href="/blog/index.html" title="blog">1</a></li>
-      <li class="page-item "><a class="page-link" href="/blog/page/2/index.html" title="blog - page 2">2</a></li>
-      <li class="page-item "><a class="page-link" href="/blog/page/3/index.html" title="blog - page 3">3</a></li>
-      <li class="page-item "><a class="page-link" href="/blog/page/4/index.html" title="blog - page 4">4</a></li>
-      <li class="page-item ">
-      <a class="page-link" href="/blog/page/2/">Older</a>
-    </li>
-  </ul>
-</nav>
-
+        <div class="card-body">
+          <h2 class="card-title text-lowercase">Safety-Guaranteed NN Planners</h2>
+          <p class="card-text">A safety-guaranteed framework for neural-network-based planners in connected vehicles under communication disturbance. The preliminary result will be published in DATE 2023.</p>
+          <div class="row ml-1 mr-1 p-0">
+          </div>
+        </div>
+      </div>
+    </a>
 </div>
+<!-- _includes/projects.html -->
+<div class="grid-sizer"></div>
+<div class="grid-item">
+  <a href="/projects/2_interchange/">
+      <div class="card hoverable">
+<figure>
+
+  <picture>
+    <source media="(max-width: 480px)" srcset="/assets/img/projects/inter_change_point-480.webp"></source>
+    <source media="(max-width: 800px)" srcset="/assets/img/projects/inter_change_point-800.webp"></source>
+    <source media="(max-width: 1400px)" srcset="/assets/img/projects/inter_change_point-1400.webp"></source>
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/projects/inter_change_point.jpg" alt="project thumbnail">
+
+  </picture>
+
+</figure>
+
+        <div class="card-body">
+          <h2 class="card-title text-lowercase">Graph-based Interchange Management</h2>
+          <p class="card-text">A graph-based approach to manage the traffic near highway interchanges.</p>
+          <div class="row ml-1 mr-1 p-0">
+          </div>
+        </div>
+      </div>
+    </a>
+</div>
+  </div>
+  <h2 class="category">EDA</h2>
+  <!-- Generate cards for each project -->
+  <div class="grid">
+<!-- _includes/projects.html -->
+<div class="grid-sizer"></div>
+<div class="grid-item">
+  <a href="/projects/1_timingmacromodeling/">
+      <div class="card hoverable">
+<figure>
+
+  <picture>
+    <source media="(max-width: 480px)" srcset="/assets/img/projects/tmm_gnn-480.webp"></source>
+    <source media="(max-width: 800px)" srcset="/assets/img/projects/tmm_gnn-800.webp"></source>
+    <source media="(max-width: 1400px)" srcset="/assets/img/projects/tmm_gnn-1400.webp"></source>
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/projects/tmm_gnn.jpg" alt="project thumbnail">
+
+  </picture>
+
+</figure>
+
+        <div class="card-body">
+          <h2 class="card-title text-lowercase">Timing Macro Modeling</h2>
+          <p class="card-text">A graph-neural-network-based approach for timing macro modeling. The preliminary result is published in DAC 2022.</p>
+          <div class="row ml-1 mr-1 p-0">
+          </div>
+        </div>
+      </div>
+    </a>
+</div>
+<!-- _includes/projects.html -->
+<div class="grid-sizer"></div>
+<div class="grid-item">
+  <a href="/projects/3_macrolegalization/">
+      <div class="card hoverable">
+<figure>
+
+  <picture>
+    <source media="(max-width: 480px)" srcset="/assets/img/projects/macro_layout-480.webp"></source>
+    <source media="(max-width: 800px)" srcset="/assets/img/projects/macro_layout-800.webp"></source>
+    <source media="(max-width: 1400px)" srcset="/assets/img/projects/macro_layout-1400.webp"></source>
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/projects/macro_layout.png" alt="project thumbnail">
+
+  </picture>
+
+</figure>
+
+        <div class="card-body">
+          <h2 class="card-title text-lowercase">Macro Legalization</h2>
+          <p class="card-text">A constraint-graph based algorithm flow which combines iterative refinement and simulated annealing to solve the macro legalization problem.</p>
+          <div class="row ml-1 mr-1 p-0">
+          </div>
+        </div>
+      </div>
+    </a>
+</div>
+<!-- _includes/projects.html -->
+<div class="grid-sizer"></div>
+<div class="grid-item">
+  <a href="/projects/4_thresholdlogicnetworks/">
+      <div class="card hoverable">
+<figure>
+
+  <picture>
+    <source media="(max-width: 480px)" srcset="/assets/img/projects/tln_problem_example-480.webp"></source>
+    <source media="(max-width: 800px)" srcset="/assets/img/projects/tln_problem_example-800.webp"></source>
+    <source media="(max-width: 1400px)" srcset="/assets/img/projects/tln_problem_example-1400.webp"></source>
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/projects/tln_problem_example.jpg" alt="project thumbnail">
+
+  </picture>
+
+</figure>
+
+        <div class="card-body">
+          <h2 class="card-title text-lowercase">Threshold Logic Networks</h2>
+          <p class="card-text">Two learning-based methods to estimate the weights and thresholds of threshold logic networks (TLN).</p>
+          <div class="row ml-1 mr-1 p-0">
+          </div>
+        </div>
+      </div>
+    </a>
+</div>
+  </div>
+  <h2 class="category">others</h2>
+  <!-- Generate cards for each project -->
+  <div class="grid">
+<!-- _includes/projects.html -->
+<div class="grid-sizer"></div>
+<div class="grid-item">
+  <a href="/projects/5_hdr/">
+      <div class="card hoverable">
+<figure>
+
+  <picture>
+    <source media="(max-width: 480px)" srcset="/assets/img/projects/hdr_comparison-480.webp"></source>
+    <source media="(max-width: 800px)" srcset="/assets/img/projects/hdr_comparison-800.webp"></source>
+    <source media="(max-width: 1400px)" srcset="/assets/img/projects/hdr_comparison-1400.webp"></source>
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/projects/hdr_comparison.jpg" alt="project thumbnail">
+
+  </picture>
+
+</figure>
+
+        <div class="card-body">
+          <h2 class="card-title text-lowercase">HDR and Low Light Enhancement</h2>
+          <p class="card-text">Implementation of HDR imaging and low light enhancement algorithms on a FPGA board.</p>
+          <div class="row ml-1 mr-1 p-0">
+          </div>
+        </div>
+      </div>
+    </a>
+</div>
+  </div>
+</div>
+
+          </article>
+
+        </div>
 
     </div>
 
     <!-- Footer -->    
     <footer class="fixed-bottom">
       <div class="container mt-0">
-        &copy; Copyright 2023 Kai-Chun (Kevin) Chang. Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
+        © Copyright 2023 Kai-Chun (Kevin) Chang. Powered by <a href="https://jekyllrb.com/" target="_blank" rel="noopener noreferrer">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio" target="_blank" rel="noopener noreferrer">al-folio</a> theme.
 Last updated: September 04, 2023.
       </div>
     </footer>
